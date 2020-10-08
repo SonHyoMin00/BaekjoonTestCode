@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//n.17204 code
 int main() {
 	int n, k, count=0, i, next;
 	cin>>n>>k;
