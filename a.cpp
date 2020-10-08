@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
+//n.11365 code
 int main() {
 	char secretcode[500], seccode[500]=" "; 
 	int codelength, i;
